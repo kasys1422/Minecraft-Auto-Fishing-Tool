@@ -1,6 +1,6 @@
 [Read in English](https://github.com/kasys1422/Mincraft-Auto-Fishing-Tool/blob/main/README-En.md)
 
-# Mincraft Auto Fishing Tool
+# Minecraft Auto Fishing Tool
 
 このツールはJava版Minecraft、Windows版Minecraftの釣りを自動化するツールです。
 
