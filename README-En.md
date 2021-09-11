@@ -38,7 +38,7 @@ Follow the instructions in the software to use it.
 
 English, Japanese
 
-(Can be extended by adding a Language file)
+[(Can be extended by adding a Language file)](https://github.com/kasys1422/Minecraft-Auto-Fishing-Tool/wiki/Translate)
 
 ## System Requirements
 
