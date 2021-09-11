@@ -150,7 +150,7 @@ void Main()
 			writer.close();
 
 			isRanning = false;
-			System::CreateProcess(L"Fishing\\Mincraft Auto Fishing Tool.exe");
+			System::CreateProcess(L"Fishing\\Minecraft Auto Fishing Tool.exe");
 		}
 		//Minecraft Trap Automation Tool起動
 		else if (gui.button(L"Trap").pushed)
