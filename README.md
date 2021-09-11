@@ -40,7 +40,7 @@ Launcher.exeを開き、Minecraft Trap Automation Toolを起動します。
 
 日本語、英語
 
-(Languageファイルを追加することで拡張可能)
+[(Languageファイルを追加することで拡張可能)](https://github.com/kasys1422/Minecraft-Auto-Fishing-Tool/wiki/Translate)
 
 ## システム環境
 
