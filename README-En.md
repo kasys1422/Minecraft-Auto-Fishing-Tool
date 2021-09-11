@@ -43,7 +43,7 @@ English, Japanese
 ## System Requirements
 
 * OS: Windows 10 64bit
-* Sound device: A stereo mixer or other recording device capable of capturing game audio
+* Sound device: A Stereo Mix or other recording device capable of capturing game audio
 * Other hardware: Something that can run Minecraft comfortably
 * Minecraft version: Minecraft Java Edition or Minecraft for Windows 10
 
