@@ -12,6 +12,10 @@ It also comes with a tool (Minecraft Trap Automation Tool) that automates the cl
 
 A recording device is used to detect the sound of the fishing rod's float sinking and automatically control the mouse button.
 
+## Download
+
+Please download from the [Releases](https://github.com/kasys1422/Mincraft-Auto-Fishing-Tool/releases).
+
 ## How to use
 
 There is no installer, just unzip the downloaded file and use it.
