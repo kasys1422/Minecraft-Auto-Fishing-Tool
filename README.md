@@ -1,5 +1,7 @@
 [Read in English](https://github.com/kasys1422/Mincraft-Auto-Fishing-Tool/blob/main/README-En.md)
 
+# 新バージョンをリリースしました。バグ等を修正したのでこちらを使用してください。(https://github.com/kasys1422/Minecraft-Automation-Tools)
+
 # Minecraft Auto Fishing Tool
 
 このツールはJava版Minecraft、Windows版Minecraftの釣りを自動化するツールです。
