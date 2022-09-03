@@ -1,3 +1,5 @@
+# A new version has been released. Please use this version since bugs etc. have been fixed.(https://github.com/kasys1422/Minecraft-Automation-Tools)
+
 # Minecraft Auto Fishing Tool
 
 This tool automates the fishing process in Minecraft Java Edition and Minecraft for Windows10.
